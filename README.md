@@ -5,3 +5,5 @@ Summaries of tech sessions presented
 * https://github.com/kencruz07/nvntory
 
 #### 2015-12-11 (Online Collaboration)
+
+#### 2016-07-08 (CSS)
