@@ -143,9 +143,7 @@ Why Flexbox?
 Why NOT Flexbox?
 * Some browsers don't play well with it (looking at you, IE)
 * Some browsers DO play well with it, but...
-
   * There are some bugs when using Flexbox
-
   * You need to use prefixes in order for Flexbox to work on older browsers
 
 ---
