@@ -136,7 +136,7 @@ Why NOT Flexbox?
   * You need to use prefixes in order for Flexbox to work on older browsers
 ---
 ### `autoprefixer-rails` [(github)](https://github.com/ai/autoprefixer-rails)
-Luckily for us, we have this gem!
+Luckily for us, we have this gem
 1. Include in `Gemfile`
 ```ruby
   gem 'autoprefixer-rails'
@@ -145,7 +145,6 @@ Luckily for us, we have this gem!
 ```bash
   rake tmp:clear
 ```
-3. !!
 ---
 ### `browser` [(github)](https://github.com/fnando/browser)
 When doing some cross browser stuff, this gem will do the trick
@@ -153,7 +152,6 @@ When doing some cross browser stuff, this gem will do the trick
 ```ruby
 gem 'browser'
 ```
-2. !!
 
 Sample usage:
 ```ruby
