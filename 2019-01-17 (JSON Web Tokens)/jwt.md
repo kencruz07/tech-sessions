@@ -67,3 +67,11 @@ Like our usual API implementation (Using Doorkeeper OAuth), the token is passed 
 
 Using the example JWT above:
 `Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHBpcmF0aW9uIjoxNTQ3Nzg2ODkwfQ.u_xY6_LPTlXnzDee4cqAFUjpXgZdR1u0f6xPyQOQ-4w`
+
+### OAuth and JWT
+OAuth 2.0 defines an authorization protocol, i.e. specifies how tokens are transferred
+
+JWT defines a token format.
+
+### Rails API and JWT
+SEE: https://medium.com/@noordean/authentication-with-jwt-in-rails-api-71102387c0b0
