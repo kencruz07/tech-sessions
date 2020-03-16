@@ -123,4 +123,4 @@ for spacing
 3. Squashing & Rebasing (to be discussed by Julius)
 4. Re-request review for outdated reviews by code reviewers
 5. Make commits as meaningful as possible
-6. Use "Refactor code" instead of "Refactors code"
+6. Use "Refactor code" instead of "Refactors code" (The purpose of this commit is to ----)
