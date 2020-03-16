@@ -122,3 +122,5 @@ for spacing
 2. Experiment on Github Projects to see if it can help improve our current workflow (to be discussed by Julius)
 3. Squashing & Rebasing (to be discussed by Julius)
 4. Re-request review for outdated reviews by code reviewers
+5. Make commits as meaningful as possible
+6. Use "Refactor code" instead of "Refactors code"
